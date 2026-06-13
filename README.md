@@ -177,3 +177,12 @@ The stop lasted **6–15 minutes** and was not drug-related.
 
 ## 🚀 Conclusion
 This project helps improve law enforcement efficiency by combining **Python, SQL, and Streamlit** to create a real-time digital check post monitoring system.
+
+--- 
+
+## 👩‍💻 Author 
+**Sandhiya** 
+
+--- 
+
+## ⭐ Support If you like this project, give it a ⭐ on GitHub!
