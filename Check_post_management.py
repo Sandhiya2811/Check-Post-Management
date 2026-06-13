@@ -504,8 +504,3 @@ with tabs[5]:
     st.markdown('<div class="insight-box">💡 India records the highest driver count; Asian female drivers are the dominant demographic group.</div>', unsafe_allow_html=True)
     with st.expander("📋 Data"): st.dataframe(demo_df, use_container_width=True)
 
-# ─────────────────────────────────────────────
-# FOOTER
-# ─────────────────────────────────────────────
-st.markdown("---")
-st.caption("SecureCheck Dashboard • MySQL + Streamlit + Plotly • Built for Police Traffic Stop Analysis")
