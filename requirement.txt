@@ -1,7 +1,6 @@
 pandas
 numpy
-sql
-matplotlib
-seaborn
+sqlalchemy 
+mysql-connector-python
 plotly
 steamlit
